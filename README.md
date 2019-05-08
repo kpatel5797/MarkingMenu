@@ -7,3 +7,5 @@ When a two-finger click is used on a Mac (probably right click on Windows), a ne
 This MarkingMenu class implementation only supports 2 levels and works with clicking the mouse (not dragging).
 
 The program uses MVC architechture.
+
+To run the application, just enter the commands gradle build, gradle run, gradle clean on the command line.
