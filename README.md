@@ -8,4 +8,4 @@ This MarkingMenu class implementation only supports 2 levels and works with clic
 
 The program uses MVC architechture.
 
-To run the app from command line, please run 'gradle build', 'gradle run', and 'gradle clean' command
+To run the app from command line, please run 'gradle build', 'gradle run', and 'gradle clean' commands
